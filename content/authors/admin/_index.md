@@ -20,7 +20,7 @@ role: Biostatistical Lead
 organizations:
   - name: British Columbia Children's Hospital Research Institute
     url: https://www.bcchr.ca
-    - name: University of British Columbia
+  - name: University of British Columbia
     url: https://www.ubc.ca
 
 # Short bio (displayed in user profile at end of posts)
