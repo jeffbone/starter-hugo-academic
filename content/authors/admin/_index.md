@@ -58,7 +58,7 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=X-UT6eUAAAAJ&hl=en
-  - icon: jsotr
+  - icon: orcid
     icon pack: ai
     link: https://orcid.org/0000-0001-7704-1677
   - icon: github
@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am the lead biostatistician and a researcher at BC Children's Hospital Research Institute and the University of British Columbia. I work across many areas of clinical research and pride myself on my ability to communicate statistical and methodoligcal complexities to a wide range of colleagues. I am motviated to ensure careful communication of scientific results. My methodolgical interests include causal inference, design and analysis of clinical trials, research synthesis methods and analyses of population data. 
 {style="text-align: justify;"}
