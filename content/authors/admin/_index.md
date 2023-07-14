@@ -24,7 +24,7 @@ organizations:
     url: https://www.ubc.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am the lead biostatistician and a researcher at BC Children's Hospital Research Institute and the University of British Columbia. I work across many areas of clinical research and pride myself on my ability to communicate statistical and methodoligcal complexities to a wide range of colleagues. I am motviated to ensure careful communication of scientific results. My methodolgical interests include causal inference, design and analysis of clinical trials, research synthesis methods and analyses of population data. 
 
 # Interests to show in About widget
 interests:
@@ -55,21 +55,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=X-UT6eUAAAAJ&hl=en
+  - icon: orcid
+    icon pack: fab
+    link: https://orcid.org/0000-0001-7704-1677
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jeffbone
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://ca.linkedin.com/in/jeffrey-bone-007612117
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
