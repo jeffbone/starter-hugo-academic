@@ -58,7 +58,7 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=X-UT6eUAAAAJ&hl=en
-  - icon: orcid
+  - icon: jsotr
     icon pack: ai
     link: https://orcid.org/0000-0001-7704-1677
   - icon: github
