@@ -3,11 +3,12 @@
 title:
 date: 2022-10-24
 type: landing
-    design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+design:
+  background:
+    gradient_end: '#1976d2'
+    gradient_start: '#004ba0'
+    text_color_light: true
+blocks:
   - block: about.biography
     id: about
     content:
@@ -201,7 +202,4 @@ type: landing
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
----
+         
